@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da84ff8e-6c8f-4082-aeb1-7297fec16e97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23janxaWqDtK7S0MJ7oeBNPVxKM" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Properties&#10;PLAIN_TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyBatis/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java项目\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\java项目\src" />
+      <recent name="E:\java项目\src\DruidPool" />
+      <recent name="E:\java项目\src\resources" />
+      <recent name="E:\java项目\CreditCard\src" />
+      <recent name="E:\java项目\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.pool">
+    <configuration name="C3p0Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C3P0Demo.C3p0Demo" />
+      <module name="java项目" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C3P0Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DruidPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DruidPool.DruidPoolDemo" />
+      <module name="java项目" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DruidPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Resigter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ResigterANDloginDemo.Resigter" />
+      <module name="java项目" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ResigterANDloginDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pool" />
+      <module name="MyBatis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.test" />
+      <module name="java项目" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.pool" />
+        <item itemvalue="Application.DruidPoolDemo" />
+        <item itemvalue="Application.C3p0Demo" />
+        <item itemvalue="Application.Resigter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da84ff8e-6c8f-4082-aeb1-7297fec16e97" name="Default Changelist" comment="" />
+      <created>1642250121816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642250121816</updated>
+      <workItem from="1642250122868" duration="346000" />
+      <workItem from="1642250480046" duration="2108000" />
+      <workItem from="1642383057042" duration="5608000" />
+      <workItem from="1642407364049" duration="3650000" />
+      <workItem from="1642411419416" duration="76000" />
+      <workItem from="1642411527307" duration="101000" />
+      <workItem from="1642411637644" duration="227000" />
+      <workItem from="1642412019736" duration="114000" />
+      <workItem from="1642412144941" duration="881000" />
+      <workItem from="1642413054793" duration="18000" />
+      <workItem from="1642413091965" duration="188000" />
+      <workItem from="1642413347462" duration="267000" />
+      <workItem from="1642413668800" duration="6314000" />
+      <workItem from="1642423485170" duration="7000" />
+      <workItem from="1642423570962" duration="1000" />
+      <workItem from="1642469579542" duration="1702000" />
+      <workItem from="1642471329535" duration="17096000" />
+      <workItem from="1642503967825" duration="8644000" />
+      <workItem from="1642557632391" duration="497000" />
+      <workItem from="1642558156566" duration="180000" />
+      <workItem from="1642558355653" duration="1181000" />
+      <workItem from="1642559566722" duration="51000" />
+      <workItem from="1642559630575" duration="65000" />
+      <workItem from="1642559710525" duration="1588000" />
+      <workItem from="1642561327271" duration="16284000" />
+      <workItem from="1642662766117" duration="262000" />
+      <workItem from="1642663044700" duration="327000" />
+      <workItem from="1642663386395" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo/demo.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

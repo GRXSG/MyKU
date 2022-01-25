@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--namespace=绑定一个对应的Dao/Mapper接口-->
+<mapper namespace="Dao.StudentDao">
+    <!--查询-->
+    <select id="getStudentList" resultType="student">
+        select * from Student
+    </select>
+    
+    <select id="getStudent" parameterType="String" resultType="student">
+        select * from Student where username = #{username}
+    </select>
+
+    <insert id="addStudent" parameterType="student">
+        insert into student(username,password) values (#{username},#{password})
+    </insert>
+
+    <update id="updateStudent" parameterType="student">
+        update student set username=#{username},password=#{password} where username=#{username}
+    </update>
+
+    <update id="updateStudent2" parameterType="map">
+        update student set username=#{1},password=#{2} where username=#{1}
+    </update>
+
+
+    <update id="deleteStudent" parameterType="String">
+        delete  from student where username=#{username}
+    </update>
+</mapper>
